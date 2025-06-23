@@ -7,16 +7,6 @@
 
 ---
 
-### 🛠️ Featured Projects
-
-- 🎯 **[api-tourApp](https://github.com/codebydias/api-tourApp)**  
-  Fullstack tourism matchmaking platform using Fastify + TS + Prisma.  
-  *Modular architecture | Secure JWT auth | Scalable*
-
-- 🧪 **[Estudos-Python](https://github.com/codebydias/Estudos-Python)**  
-  Algorithm studies and fundamentals logic repository.
-
----
 
 ### 🚀 Tech I'm Working With
 
@@ -42,6 +32,17 @@
 - 🧩 Sharp problem-solving & debugging skills  
 - 🗣️ Strong communicator (technical & non-technical)  
 - 📂 Highly organized with a focus on quality & delivery  
+
+---
+
+### 🛠️ Featured Projects
+
+- 🎯 **[api-tourApp](https://github.com/codebydias/api-tourApp)**  
+  Fullstack tourism matchmaking platform using Fastify + TS + Prisma.  
+  *Modular architecture | Secure JWT auth | Scalable*
+
+- 🧪 **[Estudos-Python](https://github.com/codebydias/Estudos-Python)**  
+  Algorithm studies and fundamentals logic repository.
 
 ---
 
