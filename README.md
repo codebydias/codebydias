@@ -1,6 +1,6 @@
 <h1 align="center">João Victor Dias</h1>
 <p align="center">
-  <strong>💻 Fullstack Developer (Node.js + Laravel) • 22y • Brazil</strong>  
+  <strong>💻 Fullstack Developer (ReactVite, Node.js & Laravel) • 22y • Brazil</strong>  
   <br />
   Building real-world systems and growing fast 🚀
 </p>
@@ -16,7 +16,7 @@
 
 ### 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=php,laravel,docker,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,docker&theme=dark" />
 
 ---
 
@@ -45,7 +45,8 @@
 
 ### 🎯 Career Goal
 
-Currently interning as a fullstack dev (Laravel), but aiming to become a backend specialist in scalable Java systems.
+I am currently working as a fullstack intern focusing on Laravel, but my mid-term goal is to become a backend development specialist.
+I am very interested in participating in highly scalable projects, with clean code, well-defined architecture and a focus on elegance, performance and clarity of understanding — principles that I believe are essential for quality software.
 
 ---
 
