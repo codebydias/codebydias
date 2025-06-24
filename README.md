@@ -41,9 +41,6 @@
   Fullstack tourism matchmaking platform using Fastify + TS + Prisma.  
   *Modular architecture | Secure JWT auth | Scalable*
 
-- 🧪 **[Estudos-Python](https://github.com/codebydias/Estudos-Python)**  
-  Algorithm studies and fundamentals logic repository.
-
 ---
 
 ### 🎯 Career Goal
