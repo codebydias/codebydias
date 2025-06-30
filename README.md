@@ -1,5 +1,5 @@
 <p align="start">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=200&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=150&wight=200&section=header"/>
 </p>
 
 <h1 align="start">João Victor Dias</h1>
