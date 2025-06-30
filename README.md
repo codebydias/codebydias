@@ -7,16 +7,30 @@
 
 ---
 
-
-### 🚀 Tech I'm Working With
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma,laravel,php&theme=dark" />
+### 🚀 Main Skills
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma,php&theme=dark" />
 
 ---
 
-### 📚 Currently Learning
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" />
 
+---
+
+### 🧰 Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=nextjs,vite,laravel,fastify&theme=dark" />
+<img src="https://www.fastify.io/images/fastify-logo-inverted-100.png" width="40" alt="Fastify" />
+
+---
+
+### 📦 Databases & ORMs
+<img src="https://skillicons.dev/icons?i=prisma,mysql,postgres&theme=dark" />
+
+---
+
+### 🧠 Currently Learning
 <img src="https://skillicons.dev/icons?i=java,spring,docker&theme=dark" />
+
 
 ---
 
