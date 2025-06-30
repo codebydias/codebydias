@@ -19,7 +19,7 @@
 
 ### 🧰 Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=nextjs,vite,laravel,fastify&theme=dark" />
-<img src="https://www.fastify.io/images/fastify-logo-inverted-100.png" width="40" alt="Fastify" />
+**+ Fastify**
 
 ---
 
