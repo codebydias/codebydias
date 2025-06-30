@@ -81,5 +81,5 @@ I am currently working as a fullstack intern focusing on Laravel, but my mid-ter
 
 <p align="start">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&width=300&section=footer&text=Code%20by%20Dias&fontColor=ffffff&animation=fadeIn" />
-<img src="/footer-image" />
+<img src="/footer_image" />
 </p>
