@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Main Skills  
-<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind&theme=dark" />
 
 ---
 
