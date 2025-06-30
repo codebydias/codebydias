@@ -24,7 +24,7 @@
 ---
 
 ### 📦 Databases & ORMs
-<img src="https://skillicons.dev/icons?i=prisma,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postegres,prisma,eloquent,hibernate&theme=dark" />
 
 ---
 
