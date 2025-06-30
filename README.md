@@ -10,13 +10,13 @@
 
 ### 🚀 Tech I'm Working With
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma,fastify,laravel,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma,laravel,php&theme=dark" />
 
 ---
 
 ### 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=java,springboot,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,docker&theme=dark" />
 
 ---
 
@@ -49,6 +49,8 @@ I am currently working as a fullstack intern focusing on Laravel, but my mid-ter
 I am very interested in participating in highly scalable projects, with clean code, well-defined architecture and a focus on elegance, performance and clarity of understanding — principles that I believe are essential for quality software.
 
 ---
+
+https://camo.githubusercontent.com/4596a66cf9ce8bed635e3a980ae372dae9e0aa91cedd841ec493d90c11b9d814/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c7569736178737a26686964655f70726f67726573733d74727565267468656d653d7261646963616c
 
 ### 📬 Let's Connect
 
