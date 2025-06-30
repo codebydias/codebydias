@@ -10,13 +10,13 @@
 
 ### 🚀 Tech I'm Working With
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma,fastify,laravel,php&theme=dark" />
 
 ---
 
 ### 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=php,laravel,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,springboot,docker&theme=dark" />
 
 ---
 
