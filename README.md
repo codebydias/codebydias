@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=100&section=header"/>
+</p>
+
 <h1 align="start">João Victor Dias</h1>
 <p align="start"><i>"codebydias"</i></p>
 <p align="start">
@@ -38,11 +42,6 @@ Turning complexity into clarity — crafting systems that lift the whole dev com
 ### 💾 Dev Tools & Environment  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,windows&theme=dark" />
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=100&section=footer"/>
-</p>
 
 ---
 
@@ -75,3 +74,9 @@ I am very interested in participating in highly scalable projects, with clean co
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-victor-dias-0026a7266)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jdias_v)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1137523691589210163)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=100&section=footer"/>
+</p>
