@@ -1,14 +1,10 @@
-<h1 align="center">João Victor Dias</h1>
-<p align="center">
+<h1 align="start">João Victor Dias</h1>
+<p align="start"><i>"codebydias"</i></p>
+<p align="start">
   <strong>💻 Fullstack Developer (ReactVite, Node.js & Laravel) • 22y • Brazil</strong>  
   <br />
-  Building real-world systems and growing fast 🚀
+Turning complexity into clarity — crafting systems that lift the whole dev community.
 </p>
-
----
-
-<h1 align="center">👨‍💻 Code by Dias</h1>
-<p align="center"><i>"Transformando café em código limpo e performático."</i></p>
 
 ---
 
