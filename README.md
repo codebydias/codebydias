@@ -1,4 +1,4 @@
-<p align="center">
+<p align="start">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=100&section=header"/>
 </p>
 
@@ -77,6 +77,6 @@ I am very interested in participating in highly scalable projects, with clean co
 
 ---
 
-<p align="center">
+<p align="start">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=100&section=footer"/>
 </p>
