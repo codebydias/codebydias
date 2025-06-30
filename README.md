@@ -8,12 +8,12 @@
 ---
 
 ### 🚀 Main Skills
-<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma&theme=dark" />
 
 ---
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,java&theme=dark" />
 
 ---
 
