@@ -1,5 +1,5 @@
 <p align="start">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=150&width=1000&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=120&width=300&section=header" />
 
 </p>
 
@@ -79,6 +79,6 @@ I am very interested in participating in highly scalable projects, with clean co
 ---
 
 <p align="start">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=180&width=1000&section=footer&text=Code%20by%20Dias&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&width=300&section=footer&text=Code%20by%20Dias&fontColor=ffffff&animation=fadeIn" />
 
 </p>
