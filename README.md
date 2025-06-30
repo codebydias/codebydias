@@ -7,36 +7,47 @@
 
 ---
 
-### 🚀 Main Skills
+<h1 align="center">👨‍💻 Code by Dias</h1>
+<p align="center"><i>"Transformando café em código limpo e performático."</i></p>
+
+---
+
+### 🚀 Main Skills  
 <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma&theme=dark" />
 
 ---
 
-### 💻 Programming Languages
+### 💻 Programming Languages  
 <img src="https://skillicons.dev/icons?i=js,ts,php,python,java&theme=dark" />
 
 ---
 
-### 🧰 Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=nextjs,vite,laravel,fastify&theme=dark" />
-**+ Fastify**
+### 🧰 Frameworks & Tools  
+<img src="https://skillicons.dev/icons?i=nextjs,vite,laravel&theme=dark" />
+<img src="https://www.fastify.io/images/fastify-logo-inverted-100.png" width="40" alt="Fastify" />
 
 ---
 
-### 📦 Databases & ORMs
-<img src="https://skillicons.dev/icons?i=mysql,postegres,prisma,eloquent,hibernate&theme=dark" />
+### 📦 Databases & ORMs  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma&theme=dark" />
+  
+🗃️ Eloquent (Laravel ORM) • Hibernate (Java ORM)
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 Currently Learning  
 <img src="https://skillicons.dev/icons?i=java,spring,docker&theme=dark" />
 
+---
+
+### 💾 Dev Tools & Environment  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,windows&theme=dark" />
 
 ---
 
-### 💾 Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,vscode,ubuntu,windows,github&theme=dark" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=100&section=footer"/>
+</p>
 
 ---
 
