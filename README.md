@@ -1,5 +1,6 @@
 <p align="start">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=150&wight=200&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=150&width=1000&section=header" />
+
 </p>
 
 <h1 align="start">João Victor Dias</h1>
@@ -78,5 +79,6 @@ I am very interested in participating in highly scalable projects, with clean co
 ---
 
 <p align="start">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=180&width=1000&section=footer&text=Code%20by%20Dias&fontColor=ffffff&animation=fadeIn" />
+
 </p>
