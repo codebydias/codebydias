@@ -67,7 +67,7 @@ I am currently working as a fullstack intern focusing on Laravel, but my mid-ter
 
 ### 📬 Let's Connect
 <p>
-  <a href="https://linkedin.com/in/joao-victor-dias-0026a7266">
+  <a href="https://linkedin.com/in/codebydias">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/jdias_v">
