@@ -79,6 +79,8 @@ I am currently working as a fullstack intern focusing on Laravel, but my mid-ter
 </p>
 
 ---
+<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=codebydias&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=4682B4&text_color=D3D3D3&bg_color=000" alt="Kirey github stats"/> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebydias&layout=compact&hide_border=true&title_color=FFFFFF&text_color=D3D3D3&bg_color=000" />
 
 <p align="start">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=120&section=footer&text=@codebydias&fontColor=ffffff&animation=fadeIn" />
