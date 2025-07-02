@@ -8,7 +8,7 @@
 <p align="start">
   <strong>💻 Fullstack Developer (ReactVite, Node.js & Laravel) • 22y • Brazil</strong>  
   <br />
-  Turning complexity into clarity — crafting systems that lift the whole dev community.
+  Turning complexity into clarity crafting systems that lift the whole dev community.
 
   "Everything can be learned"
 </p>
