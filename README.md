@@ -6,6 +6,7 @@
 <h1 align="start" style="color: #00c66d;">João Victor Dias</h1>
 <p align="start"><i>"codebydias"</i></p>
 <p align="start">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codebydias.codebydias" />
   <strong>💻 Fullstack Developer (ReactVite, Node.js & Laravel) • 22y • Brazil</strong>  
   <br />
   Turning complexity into clarity crafting systems that lift the whole dev community.
