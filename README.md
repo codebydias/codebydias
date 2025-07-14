@@ -9,11 +9,25 @@
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🤝 Team-first mindset & collaborative spirit  
-- 🧩 Sharp problem-solving & debugging skills  
-- 🗣️ Strong communicator (technical & non-technical)  
-- 📂 Highly organized with a focus on quality & delivery  
+💻 Backend-Focused Skills
+🚀 Back-end developer specialized in building robust APIs, efficient databases, and scalable systems.
 
+🛠️ Strong experience with Node.js (Fastify), Laravel, and Spring Boot.
+
+🗃️ Design and optimization of SQL and NoSQL databases.
+
+☁️ Experience with AWS services and containerization with Docker.
+
+🌟 Professional Strengths
+🤝 Collaborative by nature, enthusiastic about agile methodologies, with experience in mentoring and collaborating with cross-functional teams.
+
+🐛 Expert in debugging, identifying, and quickly resolving complex back-end issues.
+
+📡 High-performance APIs focused on clean architecture, clear documentation, and end-to-end efficiency.
+
+📂 Code quality advocate passionate about scalable architecture, automated testing, and CI/CD pipelines.
+
+🗣️ Clear communication between the technical and non-technical worlds, ensuring alignment at all levels.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 
