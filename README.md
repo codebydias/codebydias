@@ -1,22 +1,23 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm João Dias</h1>
 
-<p align="start">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=120&width=300&section=header" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Front-End+Developer;UX%2FUI+Designer;" alt="Typing SVG" />
 </p>
 
-<h1 align="start" style="color: #00c66d;">João Victor Dias</h1>
-<p align="start"><i>"codebydias"</i></p>
-<p align="start">
-  <strong>💻 Fullstack Developer (ReactVite, Node.js & Laravel) • 22y • Brazil</strong>  
-  <br />
-  Turning complexity into clarity crafting systems that lift the whole dev community.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-  "Everything can be learned"
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codebydias.codebydias" />
-</p>
+## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
----
+- 🤝 Team-first mindset & collaborative spirit  
+- 🧩 Sharp problem-solving & debugging skills  
+- 🗣️ Strong communicator (technical & non-technical)  
+- 📂 Highly organized with a focus on quality & delivery  
 
-### 🚀 Main Skills  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
+
+
+### 🚀 Main   
 <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind&theme=dark" />
 
 ---
@@ -48,44 +49,33 @@
 
 ---
 
-### 🧠 Strengths
-- 🤝 Team-first mindset & collaborative spirit  
-- 🧩 Sharp problem-solving & debugging skills  
-- 🗣️ Strong communicator (technical & non-technical)  
-- 📂 Highly organized with a focus on quality & delivery  
 
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
-### 🛠️ Featured Projects
-- 🎯 **[api-tourApp](https://github.com/codebydias/api-tourApp)**  
-  Fullstack tourism matchmaking platform using Fastify + TS + Prisma.  
-  *Modular architecture | Secure JWT auth | Scalable*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebydias&theme=dark&show_icons=true&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebydias&layout=compact&theme=dark" alt="Top Languages"/>
+</div>
 
----
 
-### 🎯 Career Goal
-I am currently working as a fullstack intern focusing on Laravel, but my mid-term goal is to become a backend development specialist. I am very interested in participating in highly scalable projects, with clean code, well-defined architecture and a focus on elegance, performance and clarity of understanding — principles that I believe are essential for quality software.
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
 
----
-
-### 📬 Let's Connect
-<p>
-  <a href="https://linkedin.com/in/codebydias">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/codebydias/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/jdias_v">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:jotavaresvictor@gmail.com" target="_blank" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
-  <a href="https://discord.com/users/1137523691589210163">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/codebydias" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
 
----
-<p align="start">
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebydias&layout=compact&hide_border=true&title_color=00c66d&text_color=ffffff&bg_color=000000" />
+<p align="right">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120"/>
 </p>
 
-<p align="start">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c66d&height=120&section=footer&text=@codebydias&fontColor=ffffff&animation=fadeIn" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
