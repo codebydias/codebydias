@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm João Dias</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Back-End+Developer;API+Specialist;Clean+Code+Advocate;Node.js+%7C+Laravel+%7C+Spring;Docker+%2F+Kubernetes+Ready;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Back-End+Developer;API+Specialist;Clean+Code+Advocate;Node.js+%7C+Laravel+%7C+Spring;Docker+%2F+Ready;" alt="Typing SVG" />
 
 </p>
 
@@ -11,6 +11,8 @@
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 💻 Backend-Focused Skills
+
+
 🚀 Back-end developer specialized in building robust APIs, efficient databases, and scalable systems.
 
 🛠️ Strong experience with Node.js (Fastify), Laravel, and Spring Boot.
