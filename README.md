@@ -22,6 +22,7 @@
 ☁️ Experience with AWS services and containerization with Docker.
 
 🌟 Professional Strengths
+
 🤝 Collaborative by nature, enthusiastic about agile methodologies, with experience in mentoring and collaborating with cross-functional teams.
 
 🐛 Expert in debugging, identifying, and quickly resolving complex back-end issues.
