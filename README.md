@@ -36,7 +36,7 @@
 
 
 ### 🚀 Main   
-<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,docker&theme=dark" />
 
 ---
 
@@ -56,9 +56,13 @@
 🗃️ Eloquent (Laravel ORM) • Hibernate (Java ORM)
 
 ---
+### 📦Prior Knowledge In
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+
+---
 
 ### 🧠 Currently Learning  
-<img src="https://skillicons.dev/icons?i=java,spring,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" />
 
 ---
 
