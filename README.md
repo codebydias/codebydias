@@ -1,4 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm João Dias</h1>
+ <a href="https://codedbydias-blog.vercel.app/" target="_blank" title="portifolio">
+    <p>Meu portifólio</p>
+  </a>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Back-End+Developer;API+Specialist;Sic+Parvis+Magna;Node.js+%7C+Laravel+%7C+Spring;Docker+%2F+Ready;" alt="Typing SVG" />
