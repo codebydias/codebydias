@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm João Dias</h1>
- <a href="https://codedbydias-blog.vercel.app/" target="_blank" title="portifolio">
+ <a align="center" href="https://codedbydias-blog.vercel.app/" target="_blank" title="portifolio">
     <p>Meu portifólio</p>
   </a>
 
